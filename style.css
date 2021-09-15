@@ -1,0 +1,40 @@
+
+.first{
+	
+	height: 50px;
+	width: 250px;
+	color: blueviolet;
+	background: orange;
+	font-style: italic;
+	padding: 20px;
+	margin: 50px;
+}
+
+.second {
+	height: 150px;
+	width: 150 px;
+	background: yellow;
+	margin: 50px;
+	padding: 15 px;
+}
+
+
+
+.third {
+	height: 350px;
+	width: 550 px;
+	background: green;
+	position: relative;
+	margin: 50px;
+	padding: 15 px;
+}
+
+.fourth {
+	height: 150px;
+	width: 250 px;
+	background: red;
+	border-radius: 50%;
+	margin: 50px;
+	padding: 15 px;
+	/*position: absolute;*/
+}
